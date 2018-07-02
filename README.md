@@ -5,8 +5,9 @@ This module allows you to add testimonials.
 
 ## Requirements:
 The module is tested on:
-	* OpenCart 2.2.0.0
-	* OpenCart 2.3.0.2
+
+* OpenCart 2.2.0.0
+* OpenCart 2.3.0.2
 
 But it may work on all 2.x versions
 
@@ -15,13 +16,16 @@ Copy both folders **admin** and **catalog** to your OpenCart installation. Make 
 
 ## Setup:
 On your store administration, go to **Extensions > Modules > TT Testimonials** and click **Install**.
+	![TT Testimonials Setup](https://image.ibb.co/kEeHBd/Screenshot_2018_7_2_Extensions.jpg)
 
 ## Configuration:
 1. Again, go to **Extensions > Modules > TT Testimonials** but click on **Edit** button.
 2. Enable the module status
 3. Click on the button bellow to add new rows
 4. Click on the Save button
+	![TT Testimonials Configuration](https://image.ibb.co/mXR8HJ/Screenshot_2018_7_2_TT_Testimonials.jpg)
 
 ## Viewing
 If you are done with the **Configuration**, go to **Design > Layouts > Home (for example)** click on Edit.
 Here you can select the **TT Testimonials** in appropriate position.
+    ![TT Testimonials Viewing](https://image.ibb.co/i3FDjy/Screenshot_2018_7_2_Layouts.jpg)
